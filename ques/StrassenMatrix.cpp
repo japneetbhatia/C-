@@ -7,8 +7,7 @@ using namespace std;
 int main()
 {int a[2][2],b[2][2],c[2][2];
  int m1,m2,m3,m4,m5,m6,m7,i,j;
- //clrscr();
- //cout<<"Matrix Multiplication Strassrn's method by-Tarun Rawat\n";
+ 
  cout<<"\nEnter the elements of 2x2 Matrix 1:\n";
  for(i=0;i<2;i++)
  {
