@@ -1,4 +1,38 @@
+## Repo to understand basic working in Markdown
 
+### 1. Heading
+
+Use # for headings. You can use this like in HTML for H1, H2 etc.
+
+<ins>
+
+**Input:**
+
+</ins>
+
+```md
+
+# H1
+## H2
+### H3
+.
+.
+###### H6
+```
+
+**<ins>Output:</ins>**
+
+# H1
+## H2
+### H3
+.
+
+.
+###### H6
+
+<hr>
+
+### 2. Bold,Italics and striking words
 ### 4. Hyperlinks and images
 
 Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
